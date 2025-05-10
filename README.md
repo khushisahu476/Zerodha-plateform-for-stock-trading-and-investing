@@ -226,4 +226,4 @@ This project is inspired by the Zerodha trading platform, with a focus on replic
 
 ---
 
-By Ritik Kumar Singh
+By Khushi Sahu
